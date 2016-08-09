@@ -1,0 +1,34 @@
+{
+  "name": "regex-stringify",
+  "version": "1.0.0",
+  "description": "Stringify regex object and string",
+  "main": "regexStringify.js",
+  "scripts": {
+    "pretest": "standard",
+    "test": "tap test.js"
+  },
+  "keywords": [
+    "stringify",
+    "regex",
+    "RegExp",
+    "string",
+    "JSON"
+  ],
+  "author": "Tomas Della Vedova - @delvedor (http://delved.org)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delvedor/regex-stringify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/delvedor/regex-stringify/issues"
+  },
+  "homepage": "https://github.com/delvedor/regex-stringify#readme",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^7.1.2",
+    "tap": "^6.3.0"
+  }
+}
